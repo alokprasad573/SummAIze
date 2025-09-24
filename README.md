@@ -1,4 +1,4 @@
-# SummAIze# SummAIze
+# SummAIze
 
 SummAIze is a Chrome extension that uses Google Gemini AI to quickly summarize web content. Select text or summarize an entire page in various formats—short, detailed, bullet points, or key takeaways—directly from your browser.
 
